@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(200, 231, 180);
+    color: navy;
+}
+
+.fontos {
+    font-weight: bold;
+    color: crimson;
+}
